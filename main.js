@@ -15,7 +15,7 @@ import axios from 'axios';
 axios.defaults.baseURL="http://localhost:3000";
 Vue.prototype.axios=axios;
 
-//引入momentjs
+//引入momentjs   11111111111111111111111111111111
 import moment from 'moment'
 Vue.prototype.moment=moment;
 
